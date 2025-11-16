@@ -19,6 +19,6 @@ match priority:
 #Step 3: Provide a customized reminder    
 if time_bound == "yes":
     message += " that requires immediate attention today!"
-    print("\nReminder:", message)
+    print("Reminder:", message)
 else:
     print(f"\nNote: {message}. Consider completing it when you have free time.")

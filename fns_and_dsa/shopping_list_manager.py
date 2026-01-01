@@ -1,7 +1,7 @@
 #Create a simple shopping list manager that allows users to add items, view the current list, and remove items.
 
 def display_menu():
-    print("\nShopping List Manager")
+    print("Shopping List Manager")
     print("1. Add Item")
     print("2. Remove Item")
     print("3. View List")

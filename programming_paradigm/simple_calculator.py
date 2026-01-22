@@ -3,11 +3,11 @@
 class SimpleCalculator:
     """A simple calculator class that supports basic arithmetic operations."""
 
-    def add(self, a, b):
+    def addition(self, a, b):
         """Return the addition of a and b."""
         return a + b
 
-    def subtract(self, a, b):
+    def subtraction(self, a, b):
         """Return the subtraction of b from a."""
         return a - b
 

@@ -1,4 +1,5 @@
 # Set of classes that demonstrate method overriding and polymorphic behavior
+import math
 
 class Shape:
     def area(self):
